@@ -262,7 +262,7 @@ div>div {
 }
 
 .redred {
-    background-image: url("/resources/Rectangle\ 2.png");
+    background-image: url("../resources/Rectangle\ 2.png");
     background-repeat: no-repeat;
     background-position: bottom;
     display: flex;
@@ -278,7 +278,7 @@ div>div {
 .percent {
     padding-right: 500px;
     padding-bottom: 30px;
-    background-image: url("/resources/Rectangle\ 1.png");
+    background-image: url("../resources/Rectangle\ 1.png");
     background-repeat: no-repeat;
     margin-top: 38px;
     margin-left: 93px;
