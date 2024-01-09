@@ -278,7 +278,7 @@ div>div {
 .percent {
     padding-right: 500px;
     padding-bottom: 30px;
-    background-image: url('/resources/Rectangle\ 1.png');
+    background-image: url("/resources/Rectangle\ 1.png");
     background-repeat: no-repeat;
     margin-top: 38px;
     margin-left: 93px;
@@ -315,7 +315,6 @@ div>div {
 .samples {
 
     display:flex;
-  
 
     padding-left: 170px;
 
